@@ -1,7 +1,13 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
-pyhthon
+docker.io/arey/mysql-client
+docker.io/library/alpine
+docker.io/library/bash
+docker.io/library/java
+docker.io/library/mysql
+docker.io/library/nginx
+docker.io/library/python
+docker.io/library/rabbitmq
+docker.io/library/redis
+docker.io/library/registry
+docker.io/library/tomcat
+docker.io/library/traefik
+docker.io/library/ubuntu
