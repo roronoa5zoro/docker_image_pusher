@@ -1,7 +1,6 @@
 docker.io/arey/mysql-client
 docker.io/library/alpine
 docker.io/library/bash
-docker.io/library/java
 docker.io/library/mysql
 docker.io/library/nginx
 docker.io/library/python
