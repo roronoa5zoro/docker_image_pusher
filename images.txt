@@ -9,6 +9,5 @@ docker.io/library/rabbitmq
 docker.io/library/redis
 docker.io/library/registry
 docker.io/library/tomcat
-docker.io/library/traefik
 docker.io/library/ubuntu
 docker.io/jdreinhardt/teedy
